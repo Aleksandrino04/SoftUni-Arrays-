@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+C:\Users\maxib\source\repos\01. Day of Week\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache
